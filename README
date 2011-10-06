@@ -1,0 +1,5 @@
+My first rails website.
+
+This is a simple weblog. To use it just direct your terminal to the directory its stored in and type "rails server" into the command line.
+
+
